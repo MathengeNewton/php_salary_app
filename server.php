@@ -1,9 +1,9 @@
 <?php
     $dbhost = "127.0.0.1";
 
-    $dbuser = "newton";
+    $dbuser = "user";
 
-    $dbpass = 'XtZk9:"%W%=_$5SZ';
+    $dbpass = 'password';
 
     $dbname = "project";
 
